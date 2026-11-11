@@ -1,0 +1,14 @@
+─(kali㉿kali-network-walks)-[~/Desktop]
+└─$ nslookup networkwalks.com
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+Name:   networkwalks.com
+Address: 192.232.216.135
+
+                                                                                                                                                           
+┌──(kali㉿kali-network-walks)-[~/Desktop]
+└─$ 
+
+

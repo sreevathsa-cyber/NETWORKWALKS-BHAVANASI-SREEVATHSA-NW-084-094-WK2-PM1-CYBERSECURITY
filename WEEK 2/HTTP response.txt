@@ -1,0 +1,17 @@
+                                                                                                                                                          
+┌──(kali㉿kali-network-walks)-[~/Desktop]
+└─$ curl -I https://networkwalks.com
+HTTP/2 200 
+permissions-policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+link: <https://networkwalks.com/wp-json/>; rel="https://api.w.org/", <https://networkwalks.com/wp-json/wp/v2/pages/53>; rel="alternate"; title="JSON"; type="application/json", <https://networkwalks.com/>; rel=shortlink
+set-cookie: __wpdm_client=15375794479e5e58d7f114a25d4b1e35; path=/; domain=networkwalks.com; secure; HttpOnly
+referrer-policy: no-referrer-when-downgrade
+x-endurance-cache-level: 0
+x-nginx-cache: WordPress
+content-type: text/html; charset=UTF-8
+date: Wed, 11 Nov 2026 04:58:55 GMT
+server: Apache
+
+                                                                                                                                                           
+┌──(kali㉿kali-network-walks)-[~/Desktop]
+└─$ 
